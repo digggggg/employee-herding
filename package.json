@@ -1,0 +1,26 @@
+{
+  "name": "employee-herding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digggggg/employee-herding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digggggg/employee-herding/issues"
+  },
+  "homepage": "https://github.com/digggggg/employee-herding#readme",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "dotenv": "^16.0.1",
+    "inquirer": "^9.0.2",
+    "mysql2": "^2.3.3",
+    "process": "^0.11.10"
+  }
+}
